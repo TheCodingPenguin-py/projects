@@ -1,2 +1,1 @@
-# projects
-this is for faith abi and me
+This is for projects made through my programming experience.
